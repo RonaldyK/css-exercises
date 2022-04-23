@@ -1,0 +1,15 @@
+.cool-button,
+.uncool-button {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.cool-button {
+    background-color: black;
+    color: white;
+}
+
+.uncool-button {
+    background-color: yellow;
+    color: black;
+}
